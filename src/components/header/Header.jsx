@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header">
       <div className="header-contents">
         <h2>
-            Whats on you mind?
+            Whats on your mind?
         </h2>
         <p>Choose from the menu  delicious  foods prepared by our chefs </p>
         <button>View Menu</button>
