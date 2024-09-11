@@ -1,0 +1,105 @@
+.header{
+
+    height:45vw;
+    margin:30px auto;
+    background:url("/burg.jpg") no-repeat;
+    opacity: 0.8;
+    border-radius: 10px;
+    background-size:cover ;
+    position: relative;
+}
+
+.header-contents{
+    position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap:1.5vw;
+  max-width: 50%;
+  bottom: 10%;
+  left:6vw;
+  animation: fadeIn 3s;
+
+
+ 
+ 
+
+}
+
+
+.header-contents h2{
+
+    font-weight: 500;
+    color:#fff;
+    font-size: 70px;
+}
+
+
+.header-contents p {
+
+    color:#fff;
+    font-size: 2vw;
+}
+
+
+.header-contents button{
+
+color:#747474;
+font-weight: 500;
+padding:1vw 2.3vw;
+background-color: #fff;
+font-size: max(1vw,13px);
+border-radius: 50px;
+border: none;
+
+}
+
+
+
+@media (max-width:1050px) {
+
+    
+
+
+    .header-contents{
+
+        max-width: 45%;
+    }
+    
+}
+
+
+
+
+
+@media (max-width:750px) {
+
+
+    .header-contents{
+
+
+        
+
+        max-width: 65%;
+    }
+
+    .header-contents h2{
+
+        font-size:10vw ;
+    }
+    
+
+    .header-contents p{
+
+        display: none;
+    
+    
+}
+
+.header-contents button{
+
+    padding:2vw 4vw
+}
+
+}
+
