@@ -2,7 +2,7 @@
 
     height:45vw;
     margin:30px auto;
-    background:url("/burg.jpg") no-repeat;
+    background:url("./burg.jpg") no-repeat;
     opacity: 0.8;
     border-radius: 10px;
     background-size:cover ;
