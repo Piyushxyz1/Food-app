@@ -155,9 +155,9 @@ padding:8px 25px;
     .navbar-menu{
     display: none;
     }
-    .navbar .logo img{
+    .navbar .logo {
     
-        font-size: 2vw;
+        width: 2vw;
     
     }
     
