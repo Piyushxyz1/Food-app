@@ -20,7 +20,7 @@ const [login, setLogin] = useState(false)
 
     <Navbar  setLogin = {setLogin}/>
 
-    <Routes   basename="/Food-app/">
+    <Routes >
 
       <Route path='/' element = { <Home/>}/>
       <Route path='/cart' element = { <Cart/>}/>
