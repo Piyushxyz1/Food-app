@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 ReactDom.createRoot(document.getElementById('root')).render(
 
-<BrowserRouter  basename="/Food-app/">
+<BrowserRouter >
 
 
 <StoreContextProvider>
