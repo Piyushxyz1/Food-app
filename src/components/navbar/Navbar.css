@@ -22,8 +22,9 @@ width: 200px;
     display: flex;
     list-style-type: none;
     gap:21px;
-    color: #1a1a1a;
-    font-size: 20px;
+    font-weight: 500;
+    color: #696969;
+    font-size: 22px;
 
 }
 
