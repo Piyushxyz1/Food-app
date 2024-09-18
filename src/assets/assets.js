@@ -71,7 +71,7 @@ import sandwich from    './sandwich.svg'
 import cake from    './cake.svg'
 import veg from    './veg.svg'
 import cheeseburg from './cheeseburg.jpg'
-import double from  './double.JPG'
+import double from  './double.jpg'
 import OIP from  './OIP.jpg'
 
 export const assets = {
