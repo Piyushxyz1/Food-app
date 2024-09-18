@@ -70,6 +70,9 @@ import noodles from    './noodles.svg'
 import sandwich from    './sandwich.svg'
 import cake from    './cake.svg'
 import veg from    './veg.svg'
+import cheeseburg from './cheeseburg.jpg'
+import double from  './double.JPG'
+import OIP from  './OIP.jpg'
 
 export const assets = {
     logo,
@@ -100,14 +103,17 @@ export const assets = {
     noodles,
     pasta,
     sandwich,
-    veg
+    veg,
+    cheeseburg,
+    double,
+    OIP
 
 }
 
 export const menu_list = [
     {
-        menu_name: "Salad",
-        menu_image: salads
+        menu_name: "Burger",
+        menu_image: cheeseburg
     },
     {
         menu_name: "Rolls",
